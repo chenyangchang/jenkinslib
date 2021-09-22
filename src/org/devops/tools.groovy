@@ -1,6 +1,6 @@
 package org.devops
 
 def PrinMes(content){
-    Println(conten)
+    Println(content)
   
 }
